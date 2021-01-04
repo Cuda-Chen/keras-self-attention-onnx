@@ -1,0 +1,7 @@
+keras==2.2.5
+#git+https://github.com/microsoft/onnxconverter-common
+#git+https://github.com/onnx/keras-onnx
+keras2onnx
+onnx==1.6.0
+keras-self-attention
+tensorflow==1.15.0
